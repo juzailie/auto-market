@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JgV0QJvwwZxxCwVi5H+s7S4THzmsY5X68hD6qm/xNRdH4iWBhYOA4gNWbuSJyEjbtc6rNi9d3FhBvqDfSO4ioA==",
+  "dgSpecHash": "2eGImdHFuuFv7Xk0IKBl2A3mWzI/hfD3XmkI1IYCwasRdNqfiiD+jgo3NPEobPuNtBGBO3xxt9X5IkPEqCmULA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\UF-Juzailie.Moidi\\Documents\\Workspace\\React JS Assessment\\AutoMarket\\AutoMarketApi\\AutoMarketApi.csproj",
+  "projectFilePath": "C:\\Users\\UF-Juzailie.Moidi\\Documents\\Workspace\\React JS Assessment\\auto-market\\AutoMarketApi\\AutoMarketApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UF-Juzailie.Moidi\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\UF-Juzailie.Moidi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

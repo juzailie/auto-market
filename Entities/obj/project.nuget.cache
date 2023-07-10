@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RjcaID+aa2n38RBmqiP7DGVVr/mvn0kpMXbZ5VHkQEUzXSprY0tWDrqZ62hJhyYMTUdqOKwD0ViEfJjkdLdB4w==",
+  "dgSpecHash": "PKoGsAEnwqxi+Z0WDniM6tX7EeEfDY2MobGG28solrPo+FPMaRs8+luRrAbvt+ZCkLcIQxO2HFvppNKOsQimFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\UF-Juzailie.Moidi\\Documents\\Workspace\\React JS Assessment\\AutoMarket\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\UF-Juzailie.Moidi\\Documents\\Workspace\\React JS Assessment\\auto-market\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UF-Juzailie.Moidi\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\UF-Juzailie.Moidi\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

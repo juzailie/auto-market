@@ -10580,11 +10580,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UF-Juzailie.Moidi\\Documents\\Workspace\\React JS Assessment\\AutoMarket\\AutoMarketApi\\AutoMarketApi.csproj",
+      "projectUniqueName": "C:\\Users\\UF-Juzailie.Moidi\\Documents\\Workspace\\React JS Assessment\\auto-market\\AutoMarketApi\\AutoMarketApi.csproj",
       "projectName": "AutoMarketApi",
-      "projectPath": "C:\\Users\\UF-Juzailie.Moidi\\Documents\\Workspace\\React JS Assessment\\AutoMarket\\AutoMarketApi\\AutoMarketApi.csproj",
+      "projectPath": "C:\\Users\\UF-Juzailie.Moidi\\Documents\\Workspace\\React JS Assessment\\auto-market\\AutoMarketApi\\AutoMarketApi.csproj",
       "packagesPath": "C:\\Users\\UF-Juzailie.Moidi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UF-Juzailie.Moidi\\Documents\\Workspace\\React JS Assessment\\AutoMarket\\AutoMarketApi\\obj\\",
+      "outputPath": "C:\\Users\\UF-Juzailie.Moidi\\Documents\\Workspace\\React JS Assessment\\auto-market\\AutoMarketApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\UF-Juzailie.Moidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10603,8 +10603,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\UF-Juzailie.Moidi\\Documents\\Workspace\\React JS Assessment\\AutoMarket\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\UF-Juzailie.Moidi\\Documents\\Workspace\\React JS Assessment\\AutoMarket\\Entities\\Entities.csproj"
+            "C:\\Users\\UF-Juzailie.Moidi\\Documents\\Workspace\\React JS Assessment\\auto-market\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\UF-Juzailie.Moidi\\Documents\\Workspace\\React JS Assessment\\auto-market\\Entities\\Entities.csproj"
             }
           }
         }
